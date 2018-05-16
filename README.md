@@ -5,3 +5,4 @@ branch "readme-edits"
 Right now, on MacPro, default app to open it is Xcode, though I have tried with Page
 Last time I mistakenly uploaded to the master branch and committed. This time I will make sure
 I update it to the "readme-edits" branch
+Edited some more directly online
