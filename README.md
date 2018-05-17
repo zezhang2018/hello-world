@@ -5,3 +5,6 @@ branch "readme-edits"
 
 I edited some more on the editing branch
 
+Okay, it succesfully merged to the master. For practive, editing on the "readme-edits" branch
+, and now I even try to insert to the original lines at the begining of the file
+, and see what are the options
